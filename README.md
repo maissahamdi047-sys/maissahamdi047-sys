@@ -68,7 +68,7 @@ Jeu du pendu graphique avec système de vies et interface visuelle.
 
 Simulation d'attaque ransomware : chiffrement, serveur C2, déchiffrement. Conçu pour comprendre les mécanismes d'attaque en contexte académique.  
 **Stack :** Python · Flask · Cryptography  
-📹 [Voir la démo](#)
+📹 [Voir la démo](https://github.com/maissahamdi047-sys/Ransomware/releases/tag/v1.0)
 
 ---
 ### 🔐 Recon — Système de Reconnaissance Faciale
