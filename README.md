@@ -1,7 +1,7 @@
 # Hi 👋 I'm Maissa Hamdi
 
 **Étudiante en sécurité des réseaux et systéme informatique**  
-🎓 ING-4 @ TEK-UP University, Tunisie &nbsp;·&nbsp; 🔐 Cybersécurité · Réseaux · IA appliquée
+🎓TEK-UP University, Tunisie &nbsp;·&nbsp; 🔐 Cybersécurité|Réseaux|IA
 
 ---
 
