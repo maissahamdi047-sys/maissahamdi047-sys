@@ -59,7 +59,7 @@ Chatbot IA multi-modèles (Groq & Gemini) avec support vocal, upload de fichiers
 ### 🎮 Hangman Game
 Jeu du pendu graphique avec système de vies et interface visuelle.  
 **Stack :** Java · JavaFX · Maven  
-📹 [Voir la démo](#)
+📹 [Voir la démo](https://github.com/maissahamdi047-sys/Hangman-Game/releases/download/v1.1/Enregistrement.2026-06-20.182200.mp4)
 
 ---
 
