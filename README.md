@@ -38,24 +38,21 @@
 ### 🦷 Cabinet Dentaire Management System
 Application web de gestion médicale — patients, rendez-vous, facturation, génération PDF.  
 **Stack :** Symfony 6.4 · PHP · MySQL · Stripe · DomPDF  
-📹 [Voir la démo](#) <!-- remplace # par ton lien vidéo/gif -->
+📹 [Voir la démo](https://github.com/maissahamdi047-sys/cabinet-dentaire/releases/download/v1.2/Enregistrement.2026-06-18.212640.mp4) <!-- remplace # par ton lien vidéo/gif -->
 
 ---
 
 ### 🌍 Tunisco — Site de tourisme en Tunisie
 Site de voyage présentant les régions, villes et hôtels de Tunisie. Galerie, carte interactive, réservations.  
 **Stack :** HTML5 · CSS3 · JavaScript  
-
-<p align="center">
-  <img src="https://github.com/maissahamdi047-sys/TUNISCO/releases/download/v1.3/1777157875891.jpg" width="600">
-</p>
+📷[Voir la démo](#)
 
 ---
 
 ### 🤖 Mars AI Assistant
 Chatbot IA multi-modèles (Groq & Gemini) avec support vocal, upload de fichiers et interface sombre.  
 **Stack :** Python · Streamlit · Groq API · Gemini API  
-📹 [Voir la démo](#)
+📷 [Voir la démo](#)
 
 ---
 
