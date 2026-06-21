@@ -45,14 +45,14 @@ Application web de gestion médicale — patients, rendez-vous, facturation, gé
 ### 🌍 Tunisco — Site de tourisme en Tunisie
 Site de voyage présentant les régions, villes et hôtels de Tunisie. Galerie, carte interactive, réservations.  
 **Stack :** HTML5 · CSS3 · JavaScript  
-📷[Voir la démo](#)
+📷[Voir démonstration](https://github.com/maissahamdi047-sys/TUNISCO/releases/download/v1.3/1777157875891.jpg)
 
 ---
 
 ### 🤖 Mars AI Assistant
 Chatbot IA multi-modèles (Groq & Gemini) avec support vocal, upload de fichiers et interface sombre.  
 **Stack :** Python · Streamlit · Groq API · Gemini API  
-📷 [Voir la démo](#)
+📷 [Voir démonstration](#)
 
 ---
 
