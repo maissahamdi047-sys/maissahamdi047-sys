@@ -47,7 +47,7 @@ Site de voyage présentant les régions, villes et hôtels de Tunisie. Galerie, 
 **Stack :** HTML5 · CSS3 · JavaScript  
 
 <p align="center">
-  <img src="https://github.com/maissahamdi047-sys/TUNISCO/releases/download/v1.3/1777157875891.jpg" width="180">
+  <img src="https://github.com/maissahamdi047-sys/TUNISCO/releases/download/v1.3/1777157875891.jpg" width="600">
 </p>
 
 ---
