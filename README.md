@@ -52,7 +52,7 @@ Site de voyage présentant les régions, villes et hôtels de Tunisie. Galerie, 
 ### 🤖 Mars AI Assistant
 Chatbot IA multi-modèles (Groq & Gemini) avec support vocal, upload de fichiers et interface sombre.  
 **Stack :** Python · Streamlit · Groq API · Gemini API  
-📷 [Voir démonstration](#)
+📷 [Voir démonstration](https://github.com/maissahamdi047-sys/chatbot/releases/download/v1.4/1750979190287.jpg)
 
 ---
 
