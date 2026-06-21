@@ -77,7 +77,14 @@ Algorithme LBPH, détection en faible lumière, chiffrement AES-256 des images e
 ***Stack :** Python · OpenCV · Cryptography · Tkinter
 📹 [Voir la démo](#)
 
+## 📊 Statistiques
 
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maissahamdi047-sys&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maissahamdi047-sys&layout=compact&theme=radical&hide_border=true)
+
+</div>
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maissahamdi)
