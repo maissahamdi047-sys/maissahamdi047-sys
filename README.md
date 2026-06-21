@@ -68,7 +68,7 @@ Jeu du pendu graphique avec système de vies et interface visuelle.
 
 Simulation d'attaque ransomware : chiffrement, serveur C2, déchiffrement. Conçu pour comprendre les mécanismes d'attaque en contexte académique.  
 **Stack :** Python · Flask · Cryptography  
-📹 [Voir la démo](https://github.com/maissahamdi047-sys/Ransomware/releases/tag/v1.0)
+📹 [Voir la démo](https://github.com/maissahamdi047-sys/Ransomware/releases/download/v1.0/Scenario.mp4)
 
 ---
 ### 🔐 Recon — Système de Reconnaissance Faciale
@@ -77,17 +77,6 @@ Algorithme LBPH, détection en faible lumière, chiffrement AES-256 des images e
 ***Stack :** Python · OpenCV · Cryptography · Tkinter
 📹 [Voir la démo](#)
 
----
-## 📊 Statistiques
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maissahamdi047-sys&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maissahamdi047-sys&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Contact
 
