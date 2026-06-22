@@ -75,9 +75,7 @@ Simulation d'attaque ransomware : chiffrement, serveur C2, déchiffrement. Conç
 ### 🔐 Recon — Système de Reconnaissance Faciale
 Système biométrique complet : reconnaissance faciale, sécurité et alertes.
 Algorithme LBPH, détection en faible lumière, chiffrement AES-256 des images et DB, tatouage numérique LSB des logs d'accès, conformité RGPD.
-
-**Stack :** Python · OpenCV · Cryptography · Tkinter
-
+**Stack :**  Python · OpenCV · Cryptography · Tkinter
 📹 [Voir la démo](#)
 
 ---
