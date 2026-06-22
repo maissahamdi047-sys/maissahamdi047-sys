@@ -75,13 +75,15 @@ Simulation d'attaque ransomware : chiffrement, serveur C2, déchiffrement. Conç
 ### 🔐 Recon — Système de Reconnaissance Faciale
 Système biométrique complet : reconnaissance faciale, sécurité et alertes.
 Algorithme LBPH, détection en faible lumière, chiffrement AES-256 des images et DB, tatouage numérique LSB des logs d'accès, conformité RGPD.
-***Stack :** Python · OpenCV · Cryptography · Tkinter
+
+**Stack :** Python · OpenCV · Cryptography · Tkinter
 📹 [Voir la démo](#)
 
 ---
 ### 🔐 OWASP Top 10 (2021) sur Juice Shop
 Analyse complète des 10 vulnérabilités OWASP sur l'application délibérément vulnérable Juice Shop : vecteur d'attaque, preuve d'exploitation (Burp Suite, SQLi, XSS…), impact et recommandations de remédiation.
-***Stack :** Burp Suite · OWASP Juice Shop · Kali Linux · Hashcat
+
+**Stack :** Burp Suite · OWASP Juice Shop · Kali Linux · Hashcat
 📹 [Voir la démo](https://github.com/maissahamdi047-sys/juice_shop/releases/download/v1.5/Enregistrement.de.l.ecran.2026-03-10.060319.mp4)
 
 ---
@@ -89,13 +91,15 @@ Analyse complète des 10 vulnérabilités OWASP sur l'application délibérémen
 
 ### 🌐 Architecture Réseau — VPN-MPLS · LAN Redondant · Monitoring
 Conception d'une infrastructure réseau d'entreprise sous GNS3 : backbone IP/MPLS avec VRF et MP-BGP, LAN redondant (HSRP, EtherChannel, OSPF) et supervision complète (AAA, SNMPv3, Zabbix).
-***Stack :** GNS3 · Cisco IOS · MPLS · BGP · OSPF · HSRP · Zabbix · VMware
+
+**Stack :** GNS3 · Cisco IOS · MPLS · BGP · OSPF · HSRP · Zabbix · VMware
 📹 [Voir la démo](#)
 
 ---
 ### 🛡️ SOC Open Source — pfSense · Wazuh · Suricata · TheHive · Shuffle
 Déploiement d'un SOC complet open source en environnement VMware segmenté WAN/LAN/DMZ. Cycle Monitor → Detect → Analyse → Respond validé par scénarios d'attaque réels (Nmap, Hydra).
-***Stack :** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
+
+**Stack :** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
 📹 [Voir la démo](#)
 
 ---
