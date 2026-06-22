@@ -76,7 +76,23 @@ Système biométrique complet : reconnaissance faciale, sécurité et alertes.
 Algorithme LBPH, détection en faible lumière, chiffrement AES-256 des images et DB, tatouage numérique LSB des logs d'accès, conformité RGPD.
 ***Stack :** Python · OpenCV · Cryptography · Tkinter
 📹 [Voir la démo](#)
+---
+🔐 OWASP Top 10 (2021) sur Juice Shop
+Analyse complète des 10 vulnérabilités OWASP sur l'application délibérément vulnérable Juice Shop : vecteur d'attaque, preuve d'exploitation (Burp Suite, SQLi, XSS…), impact et recommandations de remédiation.
+***Stack :** Burp Suite · OWASP Juice Shop · Kali Linux · Hashcat
+📹 [Voir la démo](#)
+---
 
+
+🌐 Architecture Réseau — VPN-MPLS · LAN Redondant · Monitoring
+Conception d'une infrastructure réseau d'entreprise sous GNS3 : backbone IP/MPLS avec VRF et MP-BGP, LAN redondant (HSRP, EtherChannel, OSPF) et supervision complète (AAA, SNMPv3, Zabbix).
+***Stack :** GNS3 · Cisco IOS · MPLS · BGP · OSPF · HSRP · Zabbix · VMware
+📹 [Voir la démo](#)
+---
+🛡️ SOC Open Source — pfSense · Wazuh · Suricata · TheHive · Shuffle
+Déploiement d'un SOC complet open source en environnement VMware segmenté WAN/LAN/DMZ. Cycle Monitor → Detect → Analyse → Respond validé par scénarios d'attaque réels (Nmap, Hydra).
+***Stack :**pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
+---
 ## 📊 Statistiques
 
 <div align="center">
