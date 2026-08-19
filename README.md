@@ -39,7 +39,7 @@ I'm a 4th-year Engineering student specializing in Network Security and Informat
 
 ### 🛒 King Shopping — *Plateforme E-commerce DevSecOps* · `en cours`
 
-Application e-commerce full-stack avec pipeline CI/CD DevSecOps complet sur GitHub Actions : SAST (Semgrep), secret scanning (Gitleaks), SCA (OWASP Dependency-Check), scan de vulnérabilités conteneurs (Trivy), sur runner self-hosted. Suite de tests JUnit 5/Mockito complète sur ~20 services et 19 contrôleurs backend.
+Application e-commerce full-stack avec pipeline CI/CD DevSecOps complet sur GitHub Actions : SAST (Semgrep), secret scanning (Gitleaks), SCA (OWASP Dependency-Check), scan de vulnérabilités conteneurs (Trivy).
 > **Stack :** Spring Boot · Next.js · FastAPI · MySQL · Docker · GitHub Actions · Trivy · Semgrep · Gitleaks
 > 📂 [Voir le repo](https://github.com/maissahamdi047-sys/king-shopping)
 
