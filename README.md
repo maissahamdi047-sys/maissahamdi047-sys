@@ -118,7 +118,7 @@ Déploiement d'un SOC complet open source en environnement VMware segmenté WAN/
 ## 💼 Experience
 
 **BIAT Innovation & Technology** — *Stagiaire en Conception d'Architecture Réseau d'une banque* · Stage
-Juil. 2025 – aujourd'hui · 1 an 2 mois · La Goulette, Gouvernorat Tunis, Tunisie · Hybride
+Juillet . 2025 – aôut . 2025 ·  La Goulette, Gouvernorat Tunis, Tunisie · Hybride
 
 Conception et sécurisation d'une infrastructure réseau complète pour une banque selon l'approche Collapsed Core :
 - **Segmentation avancée** : isolation des services critiques via VLAN
@@ -127,7 +127,7 @@ Conception et sécurisation d'une infrastructure réseau complète pour une banq
 - **Haute disponibilité** : mise en œuvre de HSRP, EtherChannel et Spanning Tree
 - **Services centralisés** : déploiement de DHCP
 
-**King Shopping** — *Stage DevSecOps* · Tek-Up × BIAT · 2026
+**King Shopping** — *Stage DevSecOps* · Tek-Up · 2026
 Conception et sécurisation d'un pipeline CI/CD complet pour une application e-commerce full-stack.
 
 **Tek-Up University** — *Engineering Student, Network Security & Information Systems (ING-4-SSIR)* · 2022–2026
