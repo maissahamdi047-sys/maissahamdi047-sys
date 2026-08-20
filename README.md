@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maissa Hamdi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6a1b4d,100:c2185b&height=180&section=header&text=Maissa%20Hamdi&fontSize=45&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%"/>
 
 ### Cybersecurity Engineering Student — DevSecOps · SOC · Network Security
 
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D46A9F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-hamdi-04a75a390)
 [![Email](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maissahamdi047@gmail.com)
 
-**🎯 Final-year engineering student seeking a DevSecOps / SOC / Network Security internship (2026–2027)**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D46A9F&center=true&vCenter=true&width=650&lines=%F0%9F%8E%AF+Final-year+engineering+student+seeking+a+DevSecOps+%2F+SOC+%2F+Network+Security+internship+(2026%E2%80%932027)" />
 
 </div>
 
@@ -43,15 +43,6 @@ Final-year Network Security & Information Systems student at Tek-Up University, 
 ---
 
 ## Featured Projects
-
-### 🛡️ Open-Source SOC Lab — pfSense · Wazuh · Suricata · TheHive · Shuffle
-`Final-Year Project`
-
-Deployed a full open-source Security Operations Center in a segmented WAN/LAN/DMZ environment, covering the complete **Monitor → Detect → Analyze → Respond** cycle. Validated with real attack simulations — Nmap reconnaissance and SSH brute-force via Hydra — traced end-to-end from detection through alerting and case management.
-
-**Stack:** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
-📹 Demo available on request
-
 ### 🛒 King Shopping — Secured E-commerce Platform
 `In Progress`
 
@@ -59,6 +50,17 @@ Full-stack e-commerce platform with security integrated into every stage of the 
 
 **Stack:** Spring Boot · Next.js · FastAPI · MySQL · Docker · GitHub Actions · Trivy · Semgrep · Gitleaks
 📂 [Repository](https://github.com/maissahamdi047-sys/king-shopping)
+
+
+### 🛡️ Open-Source SOC Lab — pfSense · Wazuh · Suricata · TheHive · Shuffle
+
+
+Deployed a full open-source Security Operations Center in a segmented WAN/LAN/DMZ environment, covering the complete **Monitor → Detect → Analyze → Respond** cycle. Validated with real attack simulations — Nmap reconnaissance and SSH brute-force via Hydra — traced end-to-end from detection through alerting and case management.
+
+**Stack:** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
+📹 Demo available on request
+
+
 
 ### 🌐 Enterprise Network Architecture — VPN-MPLS · Redundant LAN · Monitoring
 
@@ -164,3 +166,8 @@ Internship built around delivering a secured e-commerce platform end-to-end, wit
 Actively looking for a **DevSecOps, SOC, or Network Security internship** (PFE 2026–2027). If any of the work above is a fit for your team, let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-D46A9F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-hamdi-04a75a390) [![Email](https://img.shields.io/badge/Send_an_Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maissahamdi047@gmail.com)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,50:6a1b4d,100:1a0b2e&height=90&section=footer" width="100%"/>
+</div>
+
