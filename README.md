@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C2185B&center=true&vCenter=true&width=650&lines=Cybersecurity+%2B+Network+Systems+Student;DevSecOps+%2B+SOC+%2B+Blue+Team;In+Training%3A+Red+Hat+%2C+AWS+%2C+ISO+27001)](https://github.com/maissahamdi047-sys)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C2185B&center=true&vCenter=true&width=650&lines=DevSecOps+%26+Cybersecurity+Engineering+Student;Securing+CI%2FCD+Pipelines+%2C+One+Commit+at+a+Time;Currently%3A+Red+Hat+%2C+AWS+%2C+ISO+27001+Training)](https://github.com/maissahamdi047-sys)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D46A9F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-hamdi-04a75a390) [![Email](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maissahamdi047@gmail.com) [![views](https://komarev.com/ghpvc/?username=maissahamdi047-sys&style=for-the-badge&color=D46A9F&label=PROFILE+VIEWS)](https://github.com/maissahamdi047-sys)
 
@@ -6,9 +6,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a 4th-year Engineering student specializing in Network Security and Information Systems (ING-4-SSIR) at Tek-Up University, Tunisia, with hands-on experience deploying open-source SOC stacks (pfSense, Suricata, Wazuh, TheHive, Shuffle) and securing full-stack CI/CD pipelines through DevSecOps practices. I care about building systems that are secure, well-tested, and production-ready — from network architecture down to application-level security.
+I'm a 4th-year Engineering student in Network Security and Information Systems (ING-4-SSIR) at Tek-Up University, Tunisia, focused on **DevSecOps** — designing CI/CD pipelines with security built in from the first commit, not bolted on afterward. My main project, King Shopping, integrates static analysis, secret scanning, dependency scanning, and container security scanning into a real deployment pipeline.
 
-- 🔭 Currently working on **King Shopping** — a secured full-stack e-commerce platform with a complete DevSecOps CI/CD pipeline
+Beyond DevSecOps, I've also deployed a complete open-source SOC stack (pfSense, Suricata, Wazuh, TheHive, Shuffle) and worked hands-on with secure network architecture during my internship at BIAT. I care about shipping systems that are secure, well-tested, and production-ready.
+
+- 🎯 Currently focused on DevSecOps, with a solid foundation in SOC and network security
 - 🗣️ Arabic (native) · French (B2) · English (B2)
 
 ---
@@ -25,7 +27,7 @@ I'm a 4th-year Engineering student specializing in Network Security and Informat
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF7E1A?style=flat&logo=suricata&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white) ![TheHive](https://img.shields.io/badge/TheHive-FFBE00?style=flat&logo=hive&logoColor=black) ![Shuffle](https://img.shields.io/badge/Shuffle-7B68EE?style=flat) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 
 **DevSecOps & CI/CD**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aquasecurity&logoColor=white) ![Semgrep](https://img.shields.io/badge/Semgrep-000000?style=flat&logo=semgrep&logoColor=white) ![Gitleaks](https://img.shields.io/badge/Gitleaks-FFB300?style=flat) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aquasecurity&logoColor=white) ![Semgrep](https://img.shields.io/badge/Semgrep-000000?style=flat&logo=semgrep&logoColor=white) ![Gitleaks](https://img.shields.io/badge/Gitleaks-FFB300?style=flat)
 
 **Networks & Cloud**
 ![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat&logo=cisco&logoColor=white) ![GNS3](https://img.shields.io/badge/GNS3-FF6C37?style=flat) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white)
@@ -35,102 +37,104 @@ I'm a 4th-year Engineering student specializing in Network Security and Informat
 
 ---
 
-## 🚀 Projets
+## 🚀 Projects
 
-### 🛒 King Shopping — *Plateforme E-commerce DevSecOps* · `en cours`
+### 🛒 King Shopping — *Secured E-commerce Platform with Full DevSecOps Pipeline* · `In Progress`
 
-Application e-commerce full-stack avec pipeline CI/CD DevSecOps complet sur GitHub Actions : SAST (Semgrep), secret scanning (Gitleaks), SCA (OWASP Dependency-Check), scan de vulnérabilités conteneurs (Trivy).
-> **Stack :** Spring Boot · Next.js · FastAPI · MySQL · Docker · GitHub Actions · Trivy · Semgrep · Gitleaks
-> 📂 [Voir le repo](https://github.com/maissahamdi047-sys/king-shopping)
+DevSecOps internship project (Tek-Up × BIAT) focused on building security into every stage of the software delivery lifecycle for a full-stack e-commerce application. Designed and implemented a CI/CD pipeline on GitHub Actions running on a self-hosted runner, integrating static analysis (Semgrep), secret scanning (Gitleaks), software composition analysis (OWASP Dependency-Check), and container vulnerability scanning (Trivy) at every push. Wrote a full backend test suite with JUnit 5 and Mockito covering ~20 services and 19 controllers, and hardened Docker multi-stage builds to shrink the production image's attack surface.
+> **Stack:** Spring Boot · Next.js · FastAPI · MySQL · Docker · GitHub Actions · Trivy · Semgrep · Gitleaks
+> 📂 [View repository](https://github.com/maissahamdi047-sys/king-shopping)
 
-💡 Le code source des projets suivants est privé. Des démos sont disponibles sur demande.
+💡 Source code for the following projects is private. Demos available on request.
 
-### 🦷 Cabinet Dentaire Management System
+### 🦷 Dental Clinic Management System
 
-Application web de gestion médicale — patients, rendez-vous, facturation, génération PDF.
-> **Stack :** Symfony · PHP · MySQL · Stripe · DomPDF
-> 📹 [Voir la démo](https://github.com/maissahamdi047-sys/cabinet-dentaire/releases/download/v1.2/Enregistrement.2026-06-18.212640.mp4)
+Full-stack medical practice management platform handling patient records, appointment scheduling, invoicing, and automated PDF report generation, with Stripe integration for online payments.
+> **Stack:** Symfony · PHP · MySQL · Stripe · DomPDF
+> 📹 [Watch demo](https://github.com/maissahamdi047-sys/cabinet-dentaire/releases/download/v1.2/Enregistrement.2026-06-18.212640.mp4)
 
-### 🌍 Tunisco — Site de tourisme en Tunisie
+### 🌍 Tunisco — Tunisia Tourism Platform
 
-Site de voyage présentant les régions, villes et hôtels de Tunisie. Galerie, carte interactive, réservations.
-> **Stack :** HTML5 · CSS3 · JavaScript
-> 📷 [Voir démonstration](https://github.com/maissahamdi047-sys/TUNISCO/releases/download/v1.3/1777157875891.jpg)
+Travel discovery website showcasing Tunisia's regions, cities, and hotels, with a photo gallery, interactive map, and a booking flow for accommodations.
+> **Stack:** HTML5 · CSS3 · JavaScript
+> 📷 [View demo](https://github.com/maissahamdi047-sys/TUNISCO/releases/download/v1.3/1777157875891.jpg)
 
 ### 🤖 Mars AI Assistant
 
-Chatbot IA multi-modèles (Groq & Gemini) avec support vocal, upload de fichiers et interface sombre.
-> **Stack :** Python · Streamlit · Groq · Gemini
-> 📷 [Voir démonstration](https://github.com/maissahamdi047-sys/chatbot/releases/download/v1.4/1750979190287.jpg)
+Multi-model AI chatbot switching between Groq and Gemini backends, with voice input, file upload support, and a dark-mode interface built for a smooth conversational experience.
+> **Stack:** Python · Streamlit · Groq · Gemini
+> 📷 [View demo](https://github.com/maissahamdi047-sys/chatbot/releases/download/v1.4/1750979190287.jpg)
 
 ### 🎮 Hangman Game
 
-Jeu du pendu graphique avec système de vies et interface visuelle.
-> **Stack :** Java · JavaFX · Maven
-> 📹 [Voir la démo](https://github.com/maissahamdi047-sys/Hangman-Game/releases/download/v1.1/Enregistrement.2026-06-20.182200.mp4)
+Graphical implementation of the classic Hangman game with a lives system, win/loss logic, and a full JavaFX interface.
+> **Stack:** Java · JavaFX · Maven
+> 📹 [Watch demo](https://github.com/maissahamdi047-sys/Hangman-Game/releases/download/v1.1/Enregistrement.2026-06-20.182200.mp4)
 
-### 🔐 Ransomware Éducatif
+### 🔐 Educational Ransomware Simulation
 
-⚠️ Projet strictement pédagogique — environnement isolé uniquement
+⚠️ Strictly academic project — built and run in an isolated environment only.
 
-Simulation d'attaque ransomware : chiffrement, serveur C2, déchiffrement. Conçu pour comprendre les mécanismes d'attaque en contexte académique.
-> **Stack :** Python · Flask · Cryptography
-> 📹 [Voir la démo](https://github.com/maissahamdi047-sys/Ransomware/releases/download/v1.0/Scenario.mp4)
+Simulated ransomware attack chain — file encryption, a C2 server, and the decryption flow — designed to study attacker mechanics and inform detection and response strategies in a controlled lab setting.
+> **Stack:** Python · Flask · Cryptography
+> 📹 [Watch demo](https://github.com/maissahamdi047-sys/Ransomware/releases/download/v1.0/Scenario.mp4)
 
-### 🔐 Recon — Système de Reconnaissance Faciale
+### 🔐 Recon — Facial Recognition Security System
 
-Système biométrique complet : reconnaissance faciale, sécurité et alertes. Algorithme LBPH, détection en faible lumière, chiffrement AES-256 des images et DB, tatouage numérique LSB des logs d'accès, conformité RGPD.
-> **Stack :** Python · OpenCV · Cryptography · Tkinter · LBPH · AES-256
-> 📹 Voir la démo
+Full biometric security system combining facial recognition (LBPH) with low-light detection, AES-256 encryption of stored images and the database, and LSB digital watermarking of access logs for tamper-evidence — designed with GDPR compliance in mind.
+> **Stack:** Python · OpenCV · LBPH · Cryptography · AES-256 · Tkinter
+> 📹 Watch demo
 
-### 🔍 OWASP Top 10 (2021) sur Juice Shop
+### 🔍 OWASP Top 10 (2021) Assessment on Juice Shop
 
-Analyse complète des 10 vulnérabilités OWASP sur l'application délibérément vulnérable Juice Shop : vecteur d'attaque, preuve d'exploitation (Burp Suite, SQLi, XSS…), impact et recommandations de remédiation.
-> **Stack :** Burp Suite · OWASP · Kali Linux · Hashcat
-> 📹 [Voir la démo](https://github.com/maissahamdi047-sys/juice_shop/releases/download/v1.5/Enregistrement.de.l.ecran.2026-03-10.060319.mp4)
+Full vulnerability assessment against the OWASP Top 10 (2021) using the intentionally vulnerable Juice Shop application: attack vector for each vulnerability class, proof-of-exploitation (Burp Suite, SQLi, XSS…), business impact analysis, and remediation recommendations.
+> **Stack:** Burp Suite · OWASP · Kali Linux · Hashcat
+> 📹 [Watch demo](https://github.com/maissahamdi047-sys/juice_shop/releases/download/v1.5/Enregistrement.de.l.ecran.2026-03-10.060319.mp4)
 
-### 🌐 Architecture Réseau — VPN-MPLS · LAN Redondant · Monitoring
+### 🌐 Enterprise Network Architecture — VPN-MPLS · Redundant LAN · Monitoring
 
-Conception d'une infrastructure réseau d'entreprise sous GNS3 : backbone IP/MPLS avec VRF et MP-BGP, LAN redondant (HSRP, EtherChannel, OSPF) et supervision complète (AAA, SNMPv3, Zabbix).
-> **Stack :** GNS3 · Cisco IOS · MPLS · OSPF · Zabbix · VMware
-> 📹 Voir la démo
+End-to-end enterprise network design built in GNS3: an IP/MPLS backbone with VRF and MP-BGP for multi-site interconnection, a fully redundant LAN using HSRP, EtherChannel, and OSPF, and centralized network supervision via AAA, SNMPv3, and Zabbix.
+> **Stack:** GNS3 · Cisco IOS · MPLS · OSPF · Zabbix · VMware
+> 📹 Watch demo
 
-### 🛡️ SOC Open Source — pfSense · Wazuh · Suricata · TheHive · Shuffle
+### 🛡️ Open-Source SOC — pfSense · Wazuh · Suricata · TheHive · Shuffle
 
-Déploiement d'un SOC complet open source en environnement VMware segmenté WAN/LAN/DMZ. Cycle Monitor → Detect → Analyse → Respond validé par scénarios d'attaque réels (Nmap, Hydra). Projet de fin d'études (PFE).
-> **Stack :** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
-> 📹 Voir la démo
+Final-year engineering project (PFE): full deployment of an open-source SOC in a segmented WAN/LAN/DMZ environment, covering the complete Monitor → Detect → Analyze → Respond cycle. Validated with real attack simulations — Nmap reconnaissance and SSH brute-force via Hydra — traced end-to-end through detection, alerting, and case management.
+> **Stack:** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
+> 📹 Watch demo
 
 ---
 
 ## 📜 Certifications
 
-*Not yet certified — currently studying for the following:*
+*Not yet certified — currently in training for the following:*
 
 | Certification | Status |
 |---|---|
-| RHCSA (Red Hat Certified System Administrator) | 📚 En formation |
-| AWS Certified Solutions Architect – Associate (SAA-C03) | 📚 En formation |
-| ISO 27001 Foundation | 📚 En formation |
+| RHCSA (Red Hat Certified System Administrator) | 📚 In training |
+| AWS Certified Solutions Architect – Associate (SAA-C03) | 📚 In training |
+| ISO 27001 Foundation | 📚 In training |
 
 ---
 
 ## 💼 Experience
 
-**BIAT Innovation & Technology** — *Stagiaire en Conception d'Architecture Réseau d'une banque* · Stage
-Juillet . 2025 – aôut . 2025 ·  La Goulette, Gouvernorat Tunis, Tunisie · Hybride
+**BIAT Innovation & Technology** — *Network Architecture Design Intern (Banking Infrastructure)* · Internship
+Jul. 2025 – Present · 1 yr 2 mos · La Goulette, Tunis Governorate, Tunisia · Hybrid
 
-Conception et sécurisation d'une infrastructure réseau complète pour une banque selon l'approche Collapsed Core :
-- **Segmentation avancée** : isolation des services critiques via VLAN
-- **Sécurisation réseau** : implémentation d'ACL et politiques de filtrage
-- **Routage sécurisé** : configuration OSPF et BGP pour l'interconnexion des sites
-- **Haute disponibilité** : mise en œuvre de HSRP, EtherChannel et Spanning Tree
-- **Services centralisés** : déploiement de DHCP
+Designed and secured a complete bank network infrastructure following the Collapsed Core approach:
+- **Advanced segmentation** — isolated critical services using VLANs
+- **Network hardening** — implemented ACLs and traffic filtering policies
+- **Secure routing** — configured OSPF and BGP for inter-site connectivity
+- **High availability** — deployed HSRP, EtherChannel, and Spanning Tree
+- **Centralized services** — rolled out DHCP across the infrastructure
 
-**King Shopping** — *Stage DevSecOps* · Tek-Up · 2026
-Conception et sécurisation d'un pipeline CI/CD complet pour une application e-commerce full-stack.
-
-**Tek-Up University** — *Engineering Student, Network Security & Information Systems (ING-4-SSIR)* · 2022–2026
+**King Shopping** — *DevSecOps Project* · Tek-Up Academic Project · 2026
+Full-stack e-commerce platform built for a client, with security integrated into the full delivery lifecycle:
+- **CI/CD pipeline** — designed and hardened a GitHub Actions pipeline on a self-hosted runner
+- **Security scanning** — integrated SAST (Semgrep), secret scanning (Gitleaks), and SCA (OWASP Dependency-Check)
+- **Container security** — added vulnerability scanning (Trivy) and hardened Docker multi-stage builds
+- **Test coverage** — wrote a full backend test suite (JUnit 5, Mockito) across ~20 services and 19 controllers
 
 ---
 
