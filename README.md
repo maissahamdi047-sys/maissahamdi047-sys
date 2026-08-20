@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D46A9F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-hamdi-04a75a390)
 [![Email](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maissahamdi047@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D46A9F&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AF+Final-year+Cybersecurity+Engineering+student+%7C+DevSecOps+%2F+SOC+%2F+Network+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D46A9F&center=true&vCenter=true&width=900&lines=%F0%9F%8E%AF+Final-year+Cybersecurity+Engineering+student+%7C+DevSecOps+%2F+SOC+%2F+Network+Security" />
 
 </div>
 
