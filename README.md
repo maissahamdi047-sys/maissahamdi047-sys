@@ -48,35 +48,35 @@ Final-year Network Security & Information Systems student at Tek-Up University, 
 Full-stack e-commerce platform with security integrated into every stage of the delivery pipeline. Designed and hardened a CI/CD pipeline on GitHub Actions (self-hosted runner) integrating SAST (Semgrep), secret scanning (Gitleaks), SCA (OWASP Dependency-Check), and container scanning (Trivy) on every push. Full backend test suite; hardened Docker multi-stage builds to shrink the production image's attack surface.
 
 **Stack:** Spring Boot · Next.js · FastAPI · MySQL · Docker · GitHub Actions · Trivy · Semgrep · Gitleaks
-📂 [Repository](https://github.com/maissahamdi047-sys/king-shopping)
+
 
 ### 🛡️ Open-Source SOC Lab — pfSense · Wazuh · Suricata · TheHive · Shuffle
 
 Deployed a full open-source Security Operations Center in a segmented WAN/LAN/DMZ environment, covering the complete **Monitor → Detect → Analyze → Respond** cycle. Validated with real attack simulations — Nmap reconnaissance and SSH brute-force via Hydra — traced end-to-end from detection through alerting and case management.
 
 **Stack:** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
-📹 Demo available on request
+📹 [Watch demo]()
 
 ### 🦠 AsyncRAT — Malware Analysis
 
 Static, dynamic, and automated analysis of a live AsyncRAT sample: sandbox detonation (VirusTotal, ANY.RUN, Hybrid Analysis, MetaDefender), static analysis of the packed PE binary (Detect-It-Easy, FLOSS), and local dynamic analysis confirming process hollowing and Startup-folder persistence. Full MITRE ATT&CK mapping and detection recommendations.
 
 **Stack:** VirusTotal · ANY.RUN · Hybrid Analysis · Process Hacker · Process Monitor · FLOSS
-📂 [Repository](https://github.com/maissahamdi047-sys/AsyncRAT)
+📹 [Watch demo]( https://github.com/maissahamdi047-sys/AsyncRAT/commits/v1.1.2)
 
 ### 🖥️ GOAD Lab — Active Directory Pentesting
 
 Hands-on Active Directory penetration testing lab built on GOAD (Game Of Active Directory): enumeration, lateral movement, and privilege escalation techniques (Kerberoasting, ACL abuse, pass-the-hash) practiced against a deliberately vulnerable multi-domain environment.
 
 **Stack:** Active Directory · BloodHound · Impacket · Kali Linux
-📂 [Repository](https://github.com/maissahamdi047-sys/GOAD_Lab)
+
 
 ### 🌐 Enterprise Network Architecture — VPN-MPLS · Redundant LAN · Monitoring
 
 End-to-end enterprise network design in GNS3: an IP/MPLS backbone with VRF and MP-BGP for multi-site interconnection, a fully redundant LAN (HSRP, EtherChannel, OSPF), and centralized supervision via AAA/RADIUS and SNMPv3.
 
 **Stack:** GNS3 · Cisco IOS · MPLS · OSPF · Zabbix · VMware
-📹 Demo available on request
+
 
 ### 🔍 OWASP Top 10 (2021) Assessment — Juice Shop
 
@@ -90,7 +90,7 @@ Full vulnerability assessment against the OWASP Top 10 using the intentionally v
 Biometric access control system: facial recognition (LBPH), low-light detection, AES-256 encryption of stored images and database, LSB digital watermarking of access logs for tamper-evidence, GDPR-compliant design.
 
 **Stack:** Python · OpenCV · LBPH · Cryptography · AES-256 · Tkinter
-📹 Demo available on request
+
 
 ### 🦷 Dental Clinic Management System
 
