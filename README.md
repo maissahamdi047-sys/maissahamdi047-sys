@@ -4,12 +4,12 @@
 
 ### Cybersecurity Engineering Student — DevSecOps · SOC · Network Security
 
-![DevSecOps](https://img.shields.io/badge/DevSecOps-C2185B?style=flat-square) ![SOC / Blue Team](https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-D46A9F?style=flat-square) ![Network Security](https://img.shields.io/badge/Network%20Security-9C6BA0?style=flat-square)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-C2185B?style=flat-square) ![SOC / Blue Team](https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-D46A9F?style=flat-square) ![Network Security](https://img.shields.io/badge/Network%20Security-9C6BA0?style=flat-square) ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-8B3A62?style=flat-square) ![Pentesting](https://img.shields.io/badge/Pentesting-A6447A?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D46A9F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-hamdi-04a75a390)
 [![Email](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maissahamdi047@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D46A9F&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AF+Final-year+Cybersecurity+Engineering+student+%7C+DevSecOps+%2F+SOC+%2F+Network+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=D46A9F&center=true&vCenter=true&width=700&lines=DevSecOps;SOC+%2F+Blue+Team;Network+Security;Malware+Analysis;Pentesting" />
 
 </div>
 
