@@ -55,7 +55,21 @@ Full-stack e-commerce platform with security integrated into every stage of the 
 Deployed a full open-source Security Operations Center in a segmented WAN/LAN/DMZ environment, covering the complete **Monitor → Detect → Analyze → Respond** cycle. Validated with real attack simulations — Nmap reconnaissance and SSH brute-force via Hydra — traced end-to-end from detection through alerting and case management.
 
 **Stack:** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
-📹 [Watch demo]()
+📹 Demo available on request
+
+### 🦠 AsyncRAT — Malware Analysis
+
+Static, dynamic, and automated analysis of a live AsyncRAT sample: sandbox detonation (VirusTotal, ANY.RUN, Hybrid Analysis, MetaDefender), static analysis of the packed PE binary (Detect-It-Easy, FLOSS), and local dynamic analysis confirming process hollowing and Startup-folder persistence. Full MITRE ATT&CK mapping and detection recommendations.
+
+**Stack:** VirusTotal · ANY.RUN · Hybrid Analysis · Process Hacker · Process Monitor · FLOSS
+📂 [Repository](https://github.com/maissahamdi047-sys/AsyncRAT)
+
+### 🖥️ GOAD Lab — Active Directory Pentesting
+
+Hands-on Active Directory penetration testing lab built on GOAD (Game Of Active Directory): enumeration, lateral movement, and privilege escalation techniques (Kerberoasting, ACL abuse, pass-the-hash) practiced against a deliberately vulnerable multi-domain environment.
+
+**Stack:** Active Directory · BloodHound · Impacket · Kali Linux
+📂 [Repository](https://github.com/maissahamdi047-sys/GOAD_Lab)
 
 ### 🌐 Enterprise Network Architecture — VPN-MPLS · Redundant LAN · Monitoring
 
