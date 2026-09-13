@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6a1b4d,100:c2185b&height=180&section=header&text=Maissa%20Hamdi&fontSize=45&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%"/>
+# Hamdi Maissa
 
-### Cybersecurity Engineering Student — DevSecOps · SOC · Network Security
+### Cybersecurity Engineering Student — DevSecOps · SOC / Blue Team · Network Security
 
-![DevSecOps](https://img.shields.io/badge/DevSecOps-C2185B?style=flat-square) ![SOC / Blue Team](https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-D46A9F?style=flat-square) ![Network Security](https://img.shields.io/badge/Network%20Security-9C6BA0?style=flat-square)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D46A9F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-hamdi-04a75a390)
-[![Email](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maissahamdi047@gmail.com)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D46A9F&center=true&vCenter=true&width=900&lines=%F0%9F%8E%AF+Final-year+Cybersecurity+Engineering+student+%7C+DevSecOps+%2F+SOC+%2F+Network+Security" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-1a2b4a?style=flat-square&logo=gmail&logoColor=white)](#)
 
 </div>
 
@@ -17,114 +13,124 @@
 
 ## About
 
-Final-year Network Security & Information Systems student at Tek-Up University, Tunisia. I've built hands-on, production-grade experience across the three pillars of a modern security team instead of narrowing too early:
+Final-year Network Security & Information Systems student at **TEK-UP University**, Tunisia. Rather than specializing too early, I've built hands-on, production-grade experience across the three pillars of a modern security team:
 
 - **DevSecOps** — designed and hardened a CI/CD pipeline (SAST, secret scanning, SCA, container scanning) for a production e-commerce platform
-- **SOC / Blue Team** — deployed a full open-source SOC stack and validated it end-to-end with real attack simulations (Nmap recon, SSH brute-force via Hydra)
+- **SOC / Blue Team** — deployed a full open-source SOC stack and validated it end-to-end with real attack simulations (Nmap reconnaissance, SSH brute-force via Hydra)
 - **Network Security** — designed and secured a bank's infrastructure (segmentation, hardening, high availability) during a hands-on internship at BIAT
 
-📚 In active training: **RHCSA** · **AWS SAA-C03** · **ISO 27001 Foundation**
-🗣️ Arabic (native) · French (B2) · English (B2)
+**In active training:** RHCSA · AWS SAA-C03 · ISO 27001 Foundation
+**Languages:** Arabic (native) · French (B2) · English (B2)
 
 ---
 
 ## Tech Stack
 
-**DevSecOps & CI/CD** — ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aquasecurity&logoColor=white) ![Semgrep](https://img.shields.io/badge/Semgrep-000000?style=flat&logo=semgrep&logoColor=white) ![Gitleaks](https://img.shields.io/badge/Gitleaks-FFB300?style=flat) ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+**DevSecOps & CI/CD**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-3EC94F?style=flat-square&logo=semgrep&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-000000?style=flat-square&logo=git&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
 
-**Security & SOC** — ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF7E1A?style=flat&logo=suricata&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white) ![TheHive](https://img.shields.io/badge/TheHive-FFBE00?style=flat&logo=hive&logoColor=black) ![Shuffle](https://img.shields.io/badge/Shuffle-7B68EE?style=flat)
+**Security & SOC**
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-D2232A?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AB7E1?style=flat-square)
+![TheHive](https://img.shields.io/badge/TheHive-FF3E3E?style=flat-square)
+![Shuffle](https://img.shields.io/badge/Shuffle-6C5CE7?style=flat-square)
 
-**Offensive / Web Security** — ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+**Offensive / Web Security**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
-**Networks & Cloud** — ![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat&logo=cisco&logoColor=white) ![GNS3](https://img.shields.io/badge/GNS3-FF6C37?style=flat) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white)
+**Networks & Cloud**
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-2E7D32?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 
-**Development & Data** — ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+**Development & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
 ## Featured Projects
-### 🛒 King Shopping — Secured E-commerce Platform
-`In Progress`
 
-Full-stack e-commerce platform with security integrated into every stage of the delivery pipeline. Designed and hardened a CI/CD pipeline on GitHub Actions (self-hosted runner) integrating SAST (Semgrep), secret scanning (Gitleaks), SCA (OWASP Dependency-Check), and container scanning (Trivy) on every push. Full backend test suite; hardened Docker multi-stage builds to shrink the production image's attack surface.
+### 🛡️ [Open-Source SOC](https://github.com/maissahamdi047-sys/SOC)
+Deployed a full open-source Security Operations Center in a segmented **WAN/LAN/DMZ** environment, covering the complete **Monitor → Detect → Analyse → Respond** cycle. Validated end-to-end with real attack simulations (Nmap reconnaissance, SSH brute-force via Hydra) traced from detection through alerting and incident case management.
 
-**Stack:** Spring Boot · Next.js · FastAPI · MySQL · Docker · GitHub Actions · Trivy · Semgrep · Gitleaks
-📂 [Repository](https://github.com/maissahamdi047-sys/king-shopping)
+`pfSense` `Suricata` `Wazuh` `TheHive` `Shuffle` `Kali Linux` `VMware`
 
+### 🌐 [Enterprise Network Architecture](https://github.com/maissahamdi047-sys/Network-Architecture-and-Security)
+End-to-end enterprise network design in GNS3: an IP/MPLS backbone with **VRF** and **MP-BGP** for multi-site interconnection, a fully redundant LAN (**HSRP**, **EtherChannel**, **OSPF**), and centralized supervision via **AAA/RADIUS** and **SNMPv3**.
 
-### 🛡️ Open-Source SOC Lab — pfSense · Wazuh · Suricata · TheHive · Shuffle
+`GNS3` `Cisco IOS` `MPLS` `OSPF` `Zabbix` `VMware`
 
+### 🛒 [King Shopping — Secured E-Commerce Platform](https://github.com/maissahamdi047-sys/king-shopping) `Private`
+Full-stack e-commerce platform with security integrated into every stage of the delivery pipeline. Designed and hardened a CI/CD pipeline on GitHub Actions (self-hosted runner) integrating **SAST** (Semgrep), **secret scanning** (Gitleaks), **SCA** (OWASP Dependency-Check), and **container scanning** (Trivy) on every push. Full backend test suite; hardened Docker multi-stage builds to shrink the production image's attack surface.
 
-Deployed a full open-source Security Operations Center in a segmented WAN/LAN/DMZ environment, covering the complete **Monitor → Detect → Analyze → Respond** cycle. Validated with real attack simulations — Nmap reconnaissance and SSH brute-force via Hydra — traced end-to-end from detection through alerting and case management.
+`Spring Boot` `Next.js` `FastAPI` `MySQL` `Docker` `GitHub Actions` `Trivy` `Semgrep` `Gitleaks`
 
-**Stack:** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
-📹 Demo available on request
+### 🦠 [AsyncRAT — Malware Analysis](https://github.com/maissahamdi047-sys/AsyncRAT)
+Static, dynamic, and automated analysis of a live AsyncRAT sample: sandbox detonation (VirusTotal, ANY.RUN, Hybrid Analysis, MetaDefender), static analysis of the packed PE binary (Detect-It-Easy, FLOSS), and local dynamic analysis confirming process hollowing and Startup-folder persistence. Full MITRE ATT&CK mapping and detection recommendations.
 
+`VirusTotal` `ANY.RUN` `Hybrid Analysis` `Process Hacker` `Process Monitor` `FLOSS`
 
-
-### 🌐 Enterprise Network Architecture — VPN-MPLS · Redundant LAN · Monitoring
-
-End-to-end enterprise network design in GNS3: an IP/MPLS backbone with VRF and MP-BGP for multi-site interconnection, a fully redundant LAN (HSRP, EtherChannel, OSPF), and centralized supervision via AAA/RADIUS and SNMPv3.
-
-**Stack:** GNS3 · Cisco IOS · MPLS · OSPF · Zabbix · VMware
-📹 Demo available on request
-
-### 🔍 OWASP Top 10 (2021) Assessment — Juice Shop
-
+### 🔍 [OWASP Top 10 (2021) Assessment — Juice Shop](https://github.com/maissahamdi047-sys/Juice_shop)
 Full vulnerability assessment against the OWASP Top 10 using the intentionally vulnerable Juice Shop application: attack vector per vulnerability class, proof-of-exploitation, business impact, and remediation recommendations.
 
-**Stack:** Burp Suite · Kali Linux · Hashcat · OWASP
-📹 [Watch demo](https://github.com/maissahamdi047-sys/juice_shop/releases/download/v1.5/Enregistrement.de.l.ecran.2026-03-10.060319.mp4)
+`Burp Suite` `Kali Linux` `Hashcat` `OWASP`
 
-### 🔐 Recon — Facial Recognition Security System
+### 🖥️ [GOAD Lab — Active Directory Pentesting](https://github.com/maissahamdi047-sys/GOAD_Lab)
+Hands-on Active Directory penetration testing lab built on GOAD (Game Of Active Directory): enumeration, lateral movement, and privilege escalation techniques (Kerberoasting, ACL abuse, pass-the-hash) practiced against a deliberately vulnerable multi-domain environment.
 
-Biometric access control system: facial recognition (LBPH), low-light detection, AES-256 encryption of stored images and database, LSB digital watermarking of access logs for tamper-evidence, GDPR-compliant design.
+`Active Directory` `BloodHound` `Impacket` `Kali Linux`
 
-**Stack:** Python · OpenCV · LBPH · Cryptography · AES-256 · Tkinter
-📹 Demo available on request
+### 🔐 [Recon — Facial Recognition Security System](https://github.com/maissahamdi047-sys/Biometrics)
+Biometric access control system: facial recognition (LBPH), low-light detection, **AES-256** encryption of stored images and database, **LSB digital watermarking** of access logs for tamper-evidence, GDPR-compliant design.
 
-### 🦷 Dental Clinic Management System
+`Python` `OpenCV` `LBPH` `Cryptography` `AES-256` `Tkinter`
 
+### 🦷 [Dental Clinic Management System](https://github.com/maissahamdi047-sys/Dental-Clinic)
 Full-stack medical practice platform: patients, scheduling, invoicing, PDF reports, Stripe payments.
 
-**Stack:** Symfony · PHP · MySQL · Stripe · DomPDF
-📹 [Watch demo](https://github.com/maissahamdi047-sys/cabinet-dentaire/releases/download/v1.2/Enregistrement.2026-06-18.212640.mp4)
+`Symfony` `PHP` `MySQL` `Stripe` `DomPDF`
 
-### 🌍 Tunisco — Tourism Platform
-
+### 🌍 [Tunisco — Tourism Platform](https://github.com/maissahamdi047-sys/TUNISCO) `Private`
 Tunisia tourism platform with an interactive map and booking flow.
 
-**Stack:** HTML5 · CSS3 · JavaScript
-📹 [Watch demo](https://github.com/maissahamdi047-sys/TUNISCO/releases/download/v1.3/1777157875891.jpg)
+`HTML5` `CSS3` `JavaScript`
 
-### 🤖 Mars AI Assistant
-
+### 🤖 [Mars AI Assistant](https://github.com/maissahamdi047-sys/chatbot)
 Multi-model chatbot (Groq & Gemini) with voice input and file upload.
 
-**Stack:** Python · Streamlit · Groq · Gemini
-📹 [Watch demo](https://github.com/maissahamdi047-sys/chatbot/releases/download/v1.4/1750979190287.jpg)
+`Python` `Streamlit` `Groq` `Gemini`
 
-### 🎮 Hangman Game
-
+### 🎮 [Hangman Game](https://github.com/maissahamdi047-sys/Hangman_Game)
 Graphical Hangman implementation with a full JavaFX interface.
 
-**Stack:** Java · JavaFX · Maven
-📹 [Watch demo](https://github.com/maissahamdi047-sys/Hangman-Game/releases/download/v1.1/Enregistrement.2026-06-20.182200.mp4)
+`Java` `JavaFX` `Maven`
 
-### 🔐 Educational Ransomware Simulation
-⚠️ Strictly academic, isolated environment only
+### 🔐 [Educational Ransomware Simulation](https://github.com/maissahamdi047-sys/Ransomware) `Private`
+⚠️ *Strictly academic, isolated environment only.* Simulated attack chain (encryption, C2 server, decryption) built to study attacker mechanics for detection and response purposes.
 
-Simulated attack chain (encryption, C2 server, decryption) built to study attacker mechanics for detection and response purposes.
-
-**Stack:** Python · Flask · Cryptography
-📹 [Watch demo](https://github.com/maissahamdi047-sys/Ransomware/releases/download/v1.0/Scenario.mp4)
+`Python` `Flask` `Cryptography`
 
 ---
 
 ## Experience
 
 **Network Architecture Design Intern, Banking Infrastructure**
-**BIAT Innovation & Technology** · Jul. 2025 – Present · La Goulette, Tunisia · Hybrid
+*BIAT Innovation & Technology · Jul. 2025 – Present · La Goulette, Tunisia · Hybrid*
 
 Designed and secured a complete bank network infrastructure using the Collapsed Core approach:
 - **Segmentation** — isolated critical services with VLANs
@@ -134,15 +140,13 @@ Designed and secured a complete bank network infrastructure using the Collapsed 
 - **Centralized services** — rolled out DHCP across the infrastructure
 
 **DevSecOps Intern — King Shopping**
-**Tek-Up University** · 2026
+*TEK-UP University · 2026*
 
-Internship built around delivering a secured e-commerce platform end-to-end, with security integrated across the delivery lifecycle. *(Full technical breakdown under Featured Projects above.)*
+Internship built around delivering a secured e-commerce platform end-to-end, with security integrated across the delivery lifecycle. (Full technical breakdown under Featured Projects above.)
 
 ---
 
 ## Certifications
-
-*In active training — not yet certified*
 
 | Certification | Status |
 |---|---|
@@ -152,22 +156,9 @@ Internship built around delivering a secured e-commerce platform end-to-end, wit
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maissahamdi047-sys&show_icons=true&hide_border=true&count_private=true&theme=radical" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maissahamdi047-sys&layout=compact&hide_border=true&langs_count=8&theme=radical" width="48%">
-</p>
-
----
-
 ## Get In Touch
 
-Actively looking for a **DevSecOps, SOC, or Network Security internship** (PFE 2026–2027). If any of the work above is a fit for your team, let's talk.
+Actively looking for a **DevSecOps, SOC, or Network Security internship (PFE 2026–2027)**. If any of the work above is a fit for your team, let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-D46A9F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-hamdi-04a75a390) [![Email](https://img.shields.io/badge/Send_an_Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maissahamdi047@gmail.com)
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,50:6a1b4d,100:1a0b2e&height=90&section=footer" width="100%"/>
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-1a2b4a?style=flat-square&logo=gmail&logoColor=white)](#)
