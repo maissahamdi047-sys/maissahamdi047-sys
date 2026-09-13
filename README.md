@@ -2,7 +2,7 @@
 
 # Hamdi Maissa
 
-### Cybersecurity Engineering Student — DevSecOps · SOC / Blue Team · Network Security
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=1A2B4A&center=true&vCenter=true&width=650&lines=SOC+%2F+Blue+Team;Network+Security;Malware+Analysis;DevSecOps;Web+Application+Security;Active+Directory+%2F+Pentesting)](#)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-1a2b4a?style=flat-square&logo=gmail&logoColor=white)](#)
