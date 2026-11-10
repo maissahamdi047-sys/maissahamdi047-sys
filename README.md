@@ -62,7 +62,7 @@ Deployed a full open-source Security Operations Center in a segmented WAN/LAN/DM
 Static, dynamic, and automated analysis of a live AsyncRAT sample: sandbox detonation (VirusTotal, ANY.RUN, Hybrid Analysis, MetaDefender), static analysis of the packed PE binary (Detect-It-Easy, FLOSS), and local dynamic analysis confirming process hollowing and Startup-folder persistence. Full MITRE ATT&CK mapping and detection recommendations.
 
 **Stack:** VirusTotal · ANY.RUN · Hybrid Analysis · Process Hacker · Process Monitor · FLOSS
-📹 [Watch demo]( https://github.com/maissahamdi047-sys/AsyncRAT/commits/v1.1.2/analyse.dynamique.mp4)
+📹 [Watch demo]( https://github.com/maissahamdi047-sys/AsyncRAT/releases/tag/v1.1.2/analyse.dynamique.mp4)
 
 ### 🖥️ GOAD Lab — Active Directory Pentesting
 
