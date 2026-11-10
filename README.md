@@ -104,7 +104,7 @@ Full-stack medical practice platform: patients, scheduling, invoicing, PDF repor
 Tunisia tourism platform with an interactive map and booking flow.
 
 **Stack:** HTML5 · CSS3 · JavaScript
-📹 [Watch demo](https://github.com/maissahamdi047-sys/TUNISCO/releases/download/v1.3/1777157875891.jpg)
+🖼️[ View Screenshot](https://github.com/maissahamdi047-sys/TUNISCO/releases/download/v1.3/1777157875891.jpg)
 
 ### 🤖 Mars AI Assistant
 
@@ -118,7 +118,7 @@ Multi-model chatbot (Groq & Gemini) with voice input and file upload.
 Graphical Hangman implementation with a full JavaFX interface.
 
 **Stack:** Java · JavaFX · Maven
-📹 [Watch demo](https://github.com/maissahamdi047-sys/Hangman-Game/releases/download/v1.1/Enregistrement.2026-06-20.182200.mp4)
+🖼️ [View Screenshot]( https://github.com/maissahamdi047-sys/Hangman_Game/releases/tag/v1.1.2/1782061350363.jpg)
 
 ### 🔐 Educational Ransomware Simulation
 ⚠️ Strictly academic, isolated environment only
