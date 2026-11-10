@@ -83,7 +83,7 @@ End-to-end enterprise network design in GNS3: an IP/MPLS backbone with VRF and M
 Full vulnerability assessment against the OWASP Top 10 using the intentionally vulnerable Juice Shop application: attack vector per vulnerability class, proof-of-exploitation, business impact, and remediation recommendations.
 
 **Stack:** Burp Suite · Kali Linux · Hashcat · OWASP
-📹 [Watch demo](https://github.com/maissahamdi047-sys/juice_shop/releases/download/v1.5/Enregistrement.de.l.ecran.2026-03-10.060319.mp4)
+
 
 ### 🔐 Recon — Facial Recognition Security System
 
