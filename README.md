@@ -55,7 +55,7 @@ Full-stack e-commerce platform with security integrated into every stage of the 
 Deployed a full open-source Security Operations Center in a segmented WAN/LAN/DMZ environment, covering the complete **Monitor → Detect → Analyze → Respond** cycle. Validated with real attack simulations — Nmap reconnaissance and SSH brute-force via Hydra — traced end-to-end from detection through alerting and case management.
 
 **Stack:** pfSense · Suricata · Wazuh · TheHive · Shuffle · Kali Linux · VMware
-📹 [Watch demo](https://github.com/maissahamdi047-sys/Ransomware/releases/download/v1.1.1/soc.mp4)
+📹 [Watch demo](https://github.com/maissahamdi047-sys/SOC/releases/tag/v1.1.1)
 
 ### 🦠 AsyncRAT — Malware Analysis
 
